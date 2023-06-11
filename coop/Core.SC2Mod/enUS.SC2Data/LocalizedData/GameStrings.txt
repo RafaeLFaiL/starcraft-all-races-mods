@@ -7404,7 +7404,7 @@ DOCSTR_LoadingText=<s val="AB_Description">All Races Coop:</s><n/>- About 50 [AR
 DataCollection/Name/CommanderPrestigeStetmannCombatBuff=Combat Buff
 DocInfo/DescLong=Coop mod core module By Visceroid<n/>Based on Maguro mutators mod<n/> <n/>ALL RACES COOP<n/>ponomarevtlt@gmail.com
 DocInfo/DescShort=1-5
-DocInfo/Name=[ARC] Triggers v2
+DocInfo/Name=Care
 Effect/Name/330mmBarrageCannonsABSet=330mm Barrage Cannons
 Effect/Name/330mmBarrageCannonsApplyBehavior=330mm Barrage Cannons Stun
 Effect/Name/330mmBarrageCannonsSlowAB=330mm Barrage Cannons Slow
